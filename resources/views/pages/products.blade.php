@@ -4,7 +4,7 @@
     @include('partial.header')
 
   @foreach ($varProducts as $key => $products)
-    <div class="container">
+    <div class="container m-5">
       <div class="product-item">
         <div class="product-item-title d-flex">
           <div class="bg-faded p-5 d-flex {{$key %2 === 1 ? "mr-auto" : "ml-auto"}} rounded">

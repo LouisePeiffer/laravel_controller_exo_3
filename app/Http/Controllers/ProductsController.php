@@ -17,13 +17,13 @@ class ProductsController extends Controller
             (object) [
                 "titre"=>'Delicious treats, good eats',
                 "titreSecond"=>'Bakery & Kitchen',
-                "image"=>'./img/products-01.jpg',
+                "image"=>'./img/products-02.jpg',
                 "texte"=>"Our seasonal menu features delicious snacks, baked goods, and even full meals perfect for breakfast or lunchtime. We source our ingredients from local, oragnic farms whenever possible, alongside premium vendors for specialty goods.",
             ],
             (object) [
                 "titre"=>'From around the world',
                 "titreSecond"=>'Bulk Specialty Blends',
-                "image"=>'./img/products-01.jpg',
+                "image"=>'./img/products-03.jpg',
                 "texte"=>"Travelling the world for the very best quality coffee is something take pride in. When you visit us, you'll always find new blends from around the world, mainly from regions in Central and South America. We sell our blends in smaller to large bulk quantities. Please visit us in person for more details.",
             ],
         ];
